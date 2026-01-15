@@ -1,0 +1,32 @@
+{
+    "sequence_metadata": {
+        "length": 50,
+        "sequence": "GCTCACCGCAGCAAGGGGCAGACGACTGCTTTTGGAGTCACGACCACGGA"
+    },
+    "transition_matrix": {
+        "A": {
+            "A": 0.091,
+            "C": 0.545,
+            "G": 0.364,
+            "T": 0.0
+        },
+        "C": {
+            "A": 0.4,
+            "C": 0.133,
+            "G": 0.267,
+            "T": 0.2
+        },
+        "G": {
+            "A": 0.312,
+            "C": 0.312,
+            "G": 0.312,
+            "T": 0.062
+        },
+        "T": {
+            "A": 0.0,
+            "C": 0.286,
+            "G": 0.286,
+            "T": 0.429
+        }
+    }
+}
